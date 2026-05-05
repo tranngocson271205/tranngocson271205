@@ -10,7 +10,7 @@
 ## 👨‍🎓 About Me
 - 🎓 Software Engineering student at **FPT University Ha Noi**
 - 💻 Interested in **Web Development & Software Engineering**
-- 🌱 Currently learning **Java, Web, Data Structures**
+- 🌱 Currently learning **Java, Web, Data Structures Algorithm**
 - 🎯 Career goal: **Intern / Fresher Software Developer**
 - 📍Ha Noi, Viet Nam
 
@@ -80,6 +80,21 @@
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
 
+  <!-- SQL Server -->
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sqlserver" />
+</a>
+
+<!-- NodeJS -->
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+
+<!-- ReactJS -->
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" />
@@ -130,14 +145,26 @@
     <img src="https://skillicons.dev/icons?i=linux" />
   </a>
 
+  <!-- Docker -->
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" />
+</a>
+
 </p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,react,java,mysql,arduino,git,github,linux" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,java,spring,python,dotnet,c,cpp,cs,react,html,css,javascript,bootstrap,linux,arduino,git,github" />
+  <img src="https://skillicons.dev/icons?i=mysql,java,spring,python,dotnet,c,cpp,cs,react,html,css,javascript,bootstrap,linux,arduino,git,github,docker src="https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,react,java,mysql,arduino,git,github,linux" />
 </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,java,spring,python,dotnet,c,cpp,cs,react,html,css,javascript,bootstrap,linux,arduino,git,github,docker" />
+</p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,sqlserver,nodejs,react,git,github,docker" />
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlserver,nodejs,react" />
 
 ---
 
@@ -150,14 +177,27 @@
 ---
 
 ### Currently learning
-- Java Web (Servlet, JSP, EL and JSTL, Session)
+- Java Web (Servlet, JSP, EL and JSTL, Session, Cookie, Cloud)
 - JPAPI (Java Persistence API) - BCrypt
 - Spring Boot
+- Spring Security
+- Hibernate (JPA)
+- MySQL
+- JWT
+- RESTful API
+  1.Java Core
+  2.SQL + Spring basic
+  3.Spring Boot project
+  4.Security + JWT
+  5.Fullstack
+  6.Microservices
 - SQL Server
 - Git & GitHub
 
 
 ## 🚀 Featured Projects
+- 🔹 **Full_Buil_Project_Classroom_Asset_Management_System** - Java OOP, JDBC, JPA, JSP, EL&JSTL, Servlet Tomcat Server, SQL Server
+- 🔹 **Project_Management_GiaoNop_BaiTap** - Java OOP, JDBC, JPA, JSP, EL&JSTL, Servlet Tomcat Server, SQL Server
 - 🔹 **Student Management System** – Java OOP, JDBC
 - 🔹 **Fruits Management System** – Java OOP, JDBC  
 - 🔹 **PerJAVA** 
